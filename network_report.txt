@@ -1,0 +1,16 @@
+Freeman degree of the network: 0.009
+Density of the network: 0.378
+
+Centrality Scores of the Nodes
+Degree centrality			Connectedness centrality			Betweenness centrality
+(From highest to lowest)		(From highest to lowest)		(From highest to lowest)
+Node 1			0.444			Node 5			0.643			Node 7			0.245
+Node 3			0.444			Node 7			0.643			Node 5			0.227
+Node 5			0.444			Node 3			0.600			Node 8			0.218
+Node 7			0.444			Node 8			0.600			Node 3			0.141
+Node 8			0.444			Node 1			0.562			Node 6			0.083
+Node 2			0.333			Node 6			0.562			Node 1			0.053
+Node 4			0.333			Node 4			0.529			Node 9			0.046
+Node 6			0.333			Node 9			0.500			Node 2			0.028
+Node 9			0.333			Node 2			0.474			Node 4			0.014
+Node 10			0.222			Node 10			0.409			Node 10			0.000

@@ -1,0 +1,24 @@
+Item-based collaborative filtering recommendation scores for item 11
+Cosine similarity	k=1	k=2	k=3	k=4	k=5	
+new-user1	5.45	4.18	5.20	6.74	7.17	3.59	5.66	5.93	5.80	4.99	5.21	
+new-user2	6.30	7.51	5.74	4.36	5.80	6.99	6.60	5.23	7.80	6.00	6.99	
+Item-based collaborative filtering recommendation scores for item 11
+Euclidean similarity	k=1	k=2	k=3	k=4	k=5	
+new-user1	4.19	3.99	2.94	5.15	2.89	5.32	7.16	3.31	3.83	3.63	3.66	
+new-user2	5.23	5.61	4.83	7.69	2.11	3.84	4.25	6.18	4.78	7.40	5.61	
+Item-based collaborative filtering recommendation scores for item 11
+Pearson similarity	k=1	k=2	k=3	k=4	k=5	
+new-user1	4.95	4.92	4.54	4.78	7.21	3.85	4.49	4.78	6.00	5.27	3.63	
+new-user2	4.82	6.56	3.41	1.91	5.11	6.00	7.75	5.14	5.27	3.81	3.29	
+User-based collaborative filtering recommendation scores for item 11
+Cosine similarity	k=1	k=2	k=3	k=4	k=5	
+new-user1	6.69	9.80	8.40	9.60	9.80	9.00	9.40	9.40	10.00	9.20	9.20	
+new-user2	6.69	9.80	8.40	9.60	9.80	9.00	9.40	9.40	10.00	9.20	9.20	
+User-based collaborative filtering recommendation scores for item 11
+Euclidean similarity	k=1	k=2	k=3	k=4	k=5	
+new-user1	6.69	9.80	8.40	9.60	9.80	9.00	9.40	9.40	10.00	9.20	9.20	
+new-user2	6.69	9.80	8.40	9.60	9.80	9.00	9.40	9.40	10.00	9.20	9.20	
+User-based collaborative filtering recommendation scores for item 11
+Pearson similarity	k=1	k=2	k=3	k=4	k=5	
+new-user1	6.69	9.80	8.40	9.60	9.80	9.00	9.40	9.40	10.00	9.20	9.20	
+new-user2	6.69	9.80	8.40	9.60	9.80	9.00	9.40	9.40	10.00	9.20	9.20	
